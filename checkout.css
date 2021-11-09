@@ -1,0 +1,90 @@
+.judul .judul1{
+    color: red; font-size: 20px;
+}
+
+.head{
+    border: 1px solid ; width: 90%;
+}
+
+.tabel1 {
+    width: 100%;
+}
+
+.head1 .th1{
+    padding-right: 20%;
+}
+
+.gambar1{
+    height: 20px;
+    float: right;
+}
+
+.gambar2{
+    height: 20px;
+    float: right;
+}
+
+.order{
+    border: 1px solid; display: flex; 
+    width: 90%; padding-top: 20px;
+}
+
+.tabel2 {
+    width: 80%;
+}
+
+.gambar3 {
+    height: 100px;
+    float: left;
+}
+
+.gambar4 {
+    width: 30px;
+}
+
+.tabel3 {
+    width: 50%;
+    background-color: silver;
+    height: 50%;
+    padding: 20px;
+}
+
+.subtotal1 {
+    text-align: right;
+}
+.shipping1 {
+    text-align: right;
+}
+.toxes1 {
+    text-align: right;
+}
+.card1 {
+    text-align: left;
+}
+.total1{
+    text-align: right;
+}
+
+.div1 {
+    border: 1px solid;
+    width: 90%;
+}
+
+.tabel4 {
+    width: 100%;
+    font-size: 12px;
+}
+
+.stay {
+    text-align: right;
+}
+
+.gambar5{
+    width: 40px;
+}
+.gambar6 {
+    width: 40px;
+}
+.gambar7 {
+    width: 40px;
+}
